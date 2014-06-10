@@ -1,0 +1,11 @@
+terracotta.build.productname=terracotta
+terracotta.build.version=3.7.7
+terracotta.build.host=sfo-c64-jenkins-slave-007.eur.ad.sag
+terracotta.build.user=jenkins-slave
+terracotta.build.timestamp=20140117-104005
+terracotta.build.revision=24356
+terracotta.build.branch=3.7.7-rc
+terracotta.build.url=http://sfo-prod-svn-02.eur.ad.sag/svn/tc/dso/branches/3.7.7-rc
+terracotta.build.ee.revision=unknown
+terracotta.build.ee.branch=unknown
+terracotta.build.ee.url=unknown
